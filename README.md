@@ -26,7 +26,7 @@ ___
 ___
 ## Getting started
 
-Use this deploy button to get your own copy of the repository.
+Use this _deploy button_ to get your own copy of the repository.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/raniesantos/artisan-static&stack=cms)
 
